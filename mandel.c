@@ -166,7 +166,7 @@ int iteration_to_color( int iters, int max )
 }
 
 
-// Show help message
+// Show help message - Not used here
 void show_help_mandel()
 {
 	printf("Use: mandel [options]\n");
