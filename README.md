@@ -9,7 +9,7 @@ A small program (mandel) that creates 50 images of increasing zoom on a Mandelbr
 > processes used for the creation of the images.
 > <br>
 > **Results of Multiprocessing**
-> ![Project Screenshot](Graph - Lab 11.png)
+> <img width="1653" height="993" alt="Graph - Lab 11" src="https://github.com/user-attachments/assets/e69cf3e0-5e93-4d6e-aa69-2e64a98791ac" />
 > The implementation within mandelmovie.c, the main file that governs this program,
 > takes in a number of child processes, and will run as many processes as it can in each
 > cycle of generation. If the number of children outnumbers the number of images left to be
